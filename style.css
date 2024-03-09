@@ -194,9 +194,6 @@ figcaption {
 @media (max-width: 768px) {
     .container {
         display: block;
-        /*align-items: center;
-        padding-left: auto;
-        padding-right: auto;*/
     }
 
     .icon-card, .skills {
@@ -228,10 +225,6 @@ figcaption {
     .rose-photo, .unsaac-photo {
         width: 200px;
         height: auto;
-    }
-
-    button {
-        /*justify-content: space-around;*/
     }
 
     header {
